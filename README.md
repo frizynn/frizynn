@@ -1,11 +1,11 @@
 # Hi there! 👋
-I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in Artificial Intelligence Engineering at the esteemed University of Saint Andrew's ([UdeSA](https://udesa.edu.ar)). Welcome to my GitHub profile! Here, you'll find an extensive portfolio showcasing my notable projects and contributions in the field of AI and software development.
+I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in Artificial Intelligence Engineering at the University of Saint Andrew's ([UdeSA](https://udesa.edu.ar)). Welcome to my GitHub profile! Here, you'll find an extensive portfolio showcasing my notable projects and contributions in the field of AI and software development.
 
 
 ## 🌟 Skills and Expertise
 
-- **Languages**: Python, JavaScript, HTML, C++
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, OpenCV
+- **Languages**: Python, Java, HTML, C
+- **Machine Learning**: PyTorch, OpenCV
 
 
 ## 🚀 Notable Projects
