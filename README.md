@@ -7,12 +7,6 @@ I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in 
 - **Languages**: Python, JavaScript, HTML, C++
 - **Machine Learning**: TensorFlow, PyTorch, scikit-learn, OpenCV
 
-## 💼 Work Experience
-
-### DalGroup SA (Formerly Active) |  2021 - 2022
-
-- Managed customer orders and handled negotiations with suppliers at DalGroup.
-- Played a key role in creating the company's online webpage, showcasing its products and services.
 
 ## 🚀 Notable Projects
 
@@ -22,11 +16,16 @@ I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in 
 - Implemented the project using Python, OpenCV, and TensorFlow, enabling real-time translation of hand gestures.
 
 
-
 ### Facial Expression Recognition for Mood Detection
 
 - Developed an AI model to detect and classify facial expressions, enabling accurate mood detection.
 - Leveraged deep learning frameworks, including TensorFlow and OpenCV, to train the model on extensive facial expression datasets.
+
+### Mountain Climbing Optimization Program
+
+- Utilization of optimization algorithms to determine the best climbing route (for instance, gradient descent).
+- Implementation of a model that considers variables such as altitude and slope.
+- A refined graphical user interface (GUI) crafted using Tkinter, showcasing real-time updates on the climbers' progress and dynamically rendering the mountain.
 
 
 ## 📫 Let's Connect
