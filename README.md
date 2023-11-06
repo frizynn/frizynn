@@ -5,7 +5,7 @@ I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in 
 ## 🌟 Skills and Expertise
 
 - **Languages**: Python, Java, HTML, C
-- **Machine Learning**: PyTorch, OpenCV
+- **Machine Learning**: PyTorch, OpenCV, Langchain
 
 
 ## 🚀 Notable Projects
