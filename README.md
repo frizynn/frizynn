@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in Artificial Intelligence Engineering at the University of San Andrés ([UdeSA](https://udesa.edu.ar)), currently working at ([Notimation](https://notimation.com/es)). Welcome to my GitHub profile! Here, you'll find an extensive portfolio showcasing my notable projects and contributions in the field of AI and software development.
+I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in Artificial Intelligence Engineering at the University of San Andrés ([UdeSA](https://udesa.edu.ar)), currently working at [Notimation](https://notimation.com/es). Welcome to my GitHub profile! Here, you'll find an extensive portfolio showcasing my notable projects and contributions in the field of AI and software development.
 
 
 ## 🌟 Skills and Expertise
