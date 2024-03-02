@@ -27,6 +27,15 @@ I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in 
 - Implementation of a model that considers variables such as altitude and slope.
 - A refined graphical user interface (GUI) crafted using Tkinter, showcasing real-time updates on the climbers' progress and dynamically rendering the mountain.
 
+## 🛡️ Private Projects
+
+### Vectorizer Service 🦜
+
+- Contributed to a FastAPI application for managing embeddings.
+- Implemented endpoints for creating, updating, retrieving, and deleting embeddings.
+- Integrated logging functionality using Python's built-in logging module to track information and error messages.
+- Collaborated on embedding upload to vectorspaces, query functionalities, and more, facilitating efficient management and retrieval of embeddings for various applications.
+
 
 ## 📫 Let's Connect
 
