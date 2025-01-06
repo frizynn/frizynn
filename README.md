@@ -1,47 +1,40 @@
 # Hi there! 👋
-I'm Juan Francisco Lebrero, a dedicated student pursuing a Bachelor's degree in Artificial Intelligence Engineering at the University of San Andrés ([UdeSA](https://udesa.edu.ar)), currently working at [Notimation](https://notimation.com/es). Welcome to my GitHub profile! Here, you'll find an extensive portfolio showcasing my notable projects and contributions in the field of AI and software development.
-
+I'm Juan Francisco Lebrero, an Artificial Intelligence Engineer in training with a passion for developing AI-driven solutions. Currently pursuing a Bachelor's degree in AI Engineering at the University of San Andrés ([UdeSA](https://udesa.edu.ar)) with a 95% scholarship, I am dedicated to advancing the field of AI through research, development, and collaboration. Welcome to my GitHub profile!
 
 ## 🌟 Skills and Expertise
 
-- **Languages**: Python, Java, HTML, C
-- **Machine Learning**: PyTorch, OpenCV, Langchain
-
+- **Programming Languages**: Python, Java, C, LaTeX
+- **AI and Machine Learning**: PyTorch, TensorFlow, LangChain, OpenAI, NumPy
+- **APIs and Tools**: Meta API (WhatsApp), Pinecone, Vector Databases
+- **Other Skills**: Technical Writing, Effective Communication, Team Collaboration
 
 ## 🚀 Notable Projects
 
-### Gesture-to-Text Translation
+### Business Automation with AI Chatbots
+- Designed and implemented AI-driven WhatsApp chatbots to enhance customer engagement, automate transactions, and streamline business operations.
+- Utilized LLMs, LangChain, and vector databases for efficient and scalable solutions.
 
-- Created an AI system that recognizes hand gestures and translates them into text using computer vision techniques and deep learning models.
-- Implemented the project using Python, OpenCV, and TensorFlow, enabling real-time translation of hand gestures.
+### Retrieval-Augmented Generation (RAG) Systems
+- Developed scalable, client-specific RAG systems for chatbots using OpenAI, LangChain, and optimized vector databases (Pinecone).
+- Integrated APIs to deliver high-performance, AI-driven customer solutions.
 
+### Gesture-to-Text Translator
+- Created an AI system for real-time hand gesture recognition and translation using Python, OpenCV, and TensorFlow.
 
-### Facial Expression Recognition for Mood Detection
+### Facial Expression Recognition
+- Developed a deep learning model to detect and classify facial expressions, enabling mood detection.
 
-- Developed an AI model to detect and classify facial expressions, enabling accurate mood detection.
-- Leveraged deep learning frameworks, including TensorFlow and OpenCV, to train the model on extensive facial expression datasets.
+## 🏆 Accomplishments
 
-### Mountain Climbing Optimization Program
-
-- Utilization of optimization algorithms to determine the best climbing route (for instance, gradient descent).
-- Implementation of a model that considers variables such as altitude and slope.
-- A refined graphical user interface (GUI) crafted using Tkinter, showcasing real-time updates on the climbers' progress and dynamically rendering the mountain.
-
-## 🛡️ Private Projects
-
-### Vectorizer Service 🦜
-
-- Contributed to a FastAPI application for managing embeddings.
-- Implemented endpoints for creating, updating, retrieving, and deleting embeddings.
-- Integrated logging functionality using Python's built-in logging module to track information and error messages.
-- Collaborated on embedding upload to vectorspaces, query functionalities, and more, facilitating efficient management and retrieval of embeddings for various applications.
-
+- Winner of ITBA Computer Society Hackathon (2024) and GameJam (2023).
+- Qualified for ICPC Latin American Regional (2024).
+- Published papers on dimensionality reduction, optimization techniques, and system characterization.
 
 ## 📫 Let's Connect
 
-I'm always excited to collaborate on cutting-edge projects and connect with fellow Software and AI enthusiasts. Feel free to reach out to me through the following channels:
+I’m always eager to collaborate on innovative projects and push the boundaries of AI. Feel free to reach out:
 
 - Email: lebrerojuanfrancisco@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lebrero-juan-francisco/)
 
-Let's push the boundaries of AI and create impactful solutions together!
+Let's work together to create impactful AI solutions!
