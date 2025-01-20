@@ -28,7 +28,6 @@ I'm Juan Francisco Lebrero, an Artificial Intelligence Engineer in training with
 
 - Winner of ITBA Computer Society Hackathon (2024) and GameJam (2023).
 - Qualified for ICPC Latin American Regional (2024).
-- Published papers on dimensionality reduction, optimization techniques, and system characterization.
 
 ## 📫 Let's Connect
 
