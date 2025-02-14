@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Juan Francisco Lebrero, an Artificial Intelligence Engineer in training with a passion for developing AI-driven solutions. Currently pursuing a Bachelor's degree in AI Engineering at the University of San Andrés ([UdeSA](https://udesa.edu.ar)) with a 95% scholarship, I am dedicated to advancing the field of AI through research, development, and collaboration. Welcome to my GitHub profile!
+I'm Juan Francisco Lebrero, an Artificial Intelligence Engineer in training with a passion for developing AI-driven solutions. Working as an AI Specialist at [UK University](https://universidaduk.com/). Currently pursuing a Bachelor's degree in AI Engineering at the University of San Andrés ([UdeSA](https://udesa.edu.ar)) with a scholarship, I am dedicated to advancing the field of AI through research, development, and collaboration. Welcome to my GitHub profile!
 
 ## 🌟 Skills and Expertise
 
