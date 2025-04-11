@@ -3,7 +3,7 @@ I'm Juan Francisco, an Artificial Intelligence Engineer in training with a passi
 
 ## 🌟 Skills and Expertise
 
-- **Programming Languages**: Python, Java, C, LaTeX
+- **Programming Languages**: Python, Java, C, NestJS, NodeJS, NextJS, LaTeX
 - **AI and Machine Learning**: PyTorch, TensorFlow, LangChain, OpenAI, NumPy
 - **APIs and Tools**: Meta API (WhatsApp), Pinecone, Vector Databases
 - **Other Skills**: Technical Writing, Effective Communication, Team Collaboration
