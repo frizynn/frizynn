@@ -1,5 +1,5 @@
 # Hi there!
-I'm Juan Francisco, an Artificial Intelligence Engineering student at the University of San Andrés ([UdeSA](https://udesa.edu.ar)) and a Data Scientist at [Soflex S.A.]([https://www.linkedin.com/company/softex-s-a/](https://soflex.com.ar/)), where I design and train predictive models for emergency and criminal analysis using NLP and statistical learning. My goal is to build impactful AI-driven solutions that support critical public sector challenges.
+I'm Juan Francisco, an Artificial Intelligence Engineering student at the University of San Andrés ([UdeSA](https://udesa.edu.ar)) and a Data Scientist at ([Soflex](https://soflex.com.ar/)), where I design and train predictive models for emergency and criminal analysis using NLP and statistical learning. My goal is to build impactful AI-driven solutions that support critical public sector challenges.
 
 Previously, I worked on real-time computer vision systems in manufacturing, intelligent agents with scalable APIs in cloud environments, and Retrieval-Augmented Generation (RAG) pipelines for enterprise chatbots. I combine academic training with industry experience to deliver end-to-end AI systems that are both innovative and robust.
 
