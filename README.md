@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 - NLP models for emergency response and criminal complaint classification.
 - Predictive modeling for threat detection and risk assessment.
 
-### **ML Engineer – Papelera San Andrés de Giles** (2025)
+### **ML Engineer – Papelera San Andrés de Giles** (2025-Present)
 - Developed and deployed real-time computer vision models for production line fault detection.
 - CI/CD pipeline automation using AWS, improving scalability and maintainability.
 
