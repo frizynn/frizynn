@@ -2,8 +2,11 @@
 
 <div align="center" style="font-family: 'Segoe UI', Arial, sans-serif; background: #f8fafc; border-radius: 18px; box-shadow: 0 2px 12px #0001; padding: 32px 0 24px 0; margin-bottom: 32px;">
   <h1 style="font-size:2.6rem; margin-bottom: 0.2em; color:#1a202c; letter-spacing:1px;">Juan Francisco Lebrero</h1>
-  <h3 style="font-weight:400; color:#4a5568; margin-top:0;">AI Engineering Student and Data Scientist</h3>
-  <p style="max-width:600px; margin: 0 auto 1.5em auto; color:#2d3748; font-size:1.1rem;">Building and deploying AI systems for real environments. Focused on vision models, language models, and large scale data processing.</p>
+  <h3 style="font-weight:400; color:#4a5568; margin-top:0;">NLP Engineer · LLM & AI Platforms</h3>
+  <p style="max-width:600px; margin: 0 auto 1.5em auto; color:#2d3748; font-size:1.1rem;">
+    Training, fine-tuning, and deploying large language models at scale.
+    Focused on robust evaluation, data-centric AI, and production-grade LLM platforms with real user impact.
+  </p>
   <div style="margin: 18px 0 10px 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" />
@@ -29,56 +32,68 @@
   </div>
 </div>
 
-Artificial Intelligence Engineering student at the University of San Andrés (UdeSA).  
-I design and deploy AI systems for security, healthcare, and industrial environments.  
-I work with computer vision, language models, and multimodal pipelines for large scale data.
+Artificial Intelligence Engineering student at the University of San Andrés (UdeSA) and NLP Engineer.  
+I train, fine-tune, and distill large language models with direct impact on real products and users.  
+My work focuses on scalable data architectures, rigorous evaluation frameworks, and end-to-end LLM training and serving platforms.
 
 <hr style="border: none; border-top: 2px solid #e2e8f0; margin: 32px 0 24px 0;"/>
 
 <h2 style="color:#1a202c; font-size:1.6rem; border-left: 4px solid #3182ce; padding-left: 12px;">Experience</h2>
 
 <div style="margin-bottom:1.2em;">
-  <b>Research Assistant – LiNAR, UdeSA (2025–Present)</b>
+  <b>NLP Engineer – Mercado Libre (Jan 2026–Present)</b>
   <ul style="margin-top:0.2em;">
-    <li>Developing a vision model for non-invasive embryo assessment using time-lapse imaging and Masked Autoencoders.</li>
+    <li>Train, fine-tune, and distill large language models with direct impact on Mercado Libre products and millions of users.</li>
+    <li>Design data architectures, metrics, and evaluation frameworks to ensure robust, scalable, and high-quality LLMs.</li>
+    <li>Build and continuously evolve large-scale AI model training and serving platforms.</li>
   </ul>
 </div>
 
 <div style="margin-bottom:1.2em;">
-  <b>Senior Data Scientist – SOFLEX (2025–Present)</b>
+  <b>Senior Data Scientist – SOFLEX (2025–Jan 2026)</b>
   <ul style="margin-top:0.2em;">
-    <li>Trained language models for Argentine security and incident reporting.</li>
-    <li>Built a national-scale intelligence platform processing 200M emergency records with fast response.</li>
+    <li>Trained and fine-tuned language models for large-scale incident and security reporting systems.</li>
+    <li>Designed data pipelines, metrics, and evaluation loops for models operating over 200M+ textual records.</li>
+    <li>Built and deployed NLP services with low-latency inference and continuous monitoring.</li>
+  </ul>
+</div>
+
+<div style="margin-bottom:1.2em;">
+  <b>Research Assistant – LiNAR, UdeSA (2025–Present)</b>
+  <ul style="margin-top:0.2em;">
+    <li>Researching representation learning and self-supervised objectives, with emphasis on scalable training and evaluation methodologies.</li>
   </ul>
 </div>
 
 <div style="margin-bottom:1.2em;">
   <b>AI Consultant and Lead – Papelera San Andrés de Giles (2025–Present)</b>
   <ul style="margin-top:0.2em;">
-    <li>SKU classification pipeline using OCR and visual embeddings with 99.8% accuracy in production.</li>
-    <li>Real-time object detection on production lines using YOLOv8.</li>
+    <li>Designed multimodal pipelines combining OCR, embeddings, and language models for industrial-scale classification.</li>
+    <li>Productionized AI systems with robust serving, monitoring, and retraining strategies.</li>
   </ul>
 </div>
 
 <div style="margin-bottom:1.2em;">
   <b>AI and ML Lead – UK University (2025)</b>
   <ul style="margin-top:0.2em;">
-    <li>Reduced AI prototype development time from one week to one day.</li>
-    <li>Built intent classifier for large-scale lead flow and automated course production workflows.</li>
+    <li>Built and deployed NLP systems for intent detection and large-scale lead processing.</li>
+    <li>Accelerated model iteration cycles by introducing standardized training and evaluation frameworks.</li>
   </ul>
 </div>
 
 <div style="margin-bottom:1.2em;">
   <b>AI Engineer – Notimation (2023–2024)</b>
   <ul style="margin-top:0.2em;">
-    <li>Introduced RAG and agent architectures, improving efficiency and deployment speed.</li>
+    <li>Implemented RAG, agentic workflows, and LLM serving architectures in production environments.</li>
+    <li>Improved reliability and scalability of NLP systems through better data curation and evaluation.</li>
   </ul>
 </div>
 
 <h2 style="color:#1a202c; font-size:1.6rem; border-left: 4px solid #3182ce; padding-left: 12px;">Skills</h2>
 <ul style="margin-top:0;">
   <li><b>Languages:</b> Python, C/C++, Java, JavaScript, TypeScript, CUDA</li>
-  <li><b>Machine Learning:</b> PyTorch, TensorFlow, PyTorch Geometric, YOLO, LangChain</li>
+  <li><b>NLP & LLMs:</b> Transformer architectures, fine-tuning, distillation, RAG, evaluation & benchmarking</li>
+  <li><b>Machine Learning:</b> PyTorch, TensorFlow, PyTorch Geometric, LangChain</li>
   <li><b>Infrastructure:</b> Docker, Kubernetes, AWS, GCP, SQL, DynamoDB, Cassandra</li>
 </ul>
 
